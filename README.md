@@ -1,2 +1,3 @@
 # Data_Course_SENECA
-Annelise
+Annelise Seneca
+
