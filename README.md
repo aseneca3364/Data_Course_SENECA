@@ -7,3 +7,4 @@ Data/
 Exercises/
 Readings/
 Personal/
+Other/
