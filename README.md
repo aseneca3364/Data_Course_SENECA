@@ -4,3 +4,4 @@ your mom
 Assignments/
 Code_Examples/
 Data/
+Exercises/
