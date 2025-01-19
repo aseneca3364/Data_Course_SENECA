@@ -6,3 +6,4 @@ Code_Examples/
 Data/
 Exercises/
 Readings/
+Personal/
