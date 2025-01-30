@@ -1,0 +1,6 @@
+csv_files <- list.files(path = "Data", pattern = "\\.csv$", full.names = TRUE)
+print(csv_files)
+num_csv_files <- length(csv_files)
+print(num_csv_files)
+df <- read.csv("Data/wingspan_vs_mass.csv")
+head(df, 5)
